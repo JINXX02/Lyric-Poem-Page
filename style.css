@@ -1,0 +1,33 @@
+h1 {
+    color:#129990;
+    font-family: "Zen Dots", sans-serif;
+    font-size: 50px;
+}
+
+h2 {
+    color:#129990;
+    font-family: "Zen Dots", sans-serif;
+}
+h1, h2 {
+    background-color: yellowgreen;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 35%;
+}
+
+p, h3, strong {
+    font-family: "Zen Dots", sans-serif;
+}
+
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+body {
+    background-image: url("blohsh.webp");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 60px 70px;
+}
