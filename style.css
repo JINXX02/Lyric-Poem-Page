@@ -1,33 +1,45 @@
 h1 {
-    color:#129990;
+    color: black;
     font-family: "Zen Dots", sans-serif;
     font-size: 50px;
+    background-color: #ce2a33;
 }
 
 h2 {
-    color:#129990;
+    color: black;
     font-family: "Zen Dots", sans-serif;
+    background-color: #ce2a33;
+    
 }
-h1, h2 {
-    background-color: yellowgreen;
-}
+
 img {
     display: block;
     margin: auto;
     width: 35%;
+    border-radius: 30%;
 }
 
 p, h3, strong {
     font-family: "Zen Dots", sans-serif;
+    text-align: center;
+    color: #ce2a33;
 }
 
 body {
-    background-color: lightgoldenrodyellow;
+    background-color: #ebd077;
+}
+
+p {
+    border: 5px dotted black;
+    width: fit-content;
+    margin: auto;
+    padding: 10px;
 }
 
 body {
     background-image: url("blohsh.webp");
+    background-size: 30px 45px;
     background-repeat: no-repeat;
-    background-position: right bottom;
-    background-size: 60px 70px;
+    background-position: bottom right;
+    background-attachment: fixed;
 }
